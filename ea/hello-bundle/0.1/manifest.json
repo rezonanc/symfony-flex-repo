@@ -1,0 +1,9 @@
+{
+    "bundles": {
+        "EA\\HelloBundle\\EAHelloBundle": ["all"]
+    },
+    "copy-from-package": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
+
